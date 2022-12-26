@@ -31,14 +31,14 @@
     <string name="notice_room_third_party_invite">%1$s 傳送加入房間的邀請給 %2$s</string>
     <string name="notice_room_third_party_registered_invite">%1$s 接受 %2$s 的邀請</string>
     <string name="notice_crypto_unable_to_decrypt">** 無法解密：%s **</string>
-    <string name="notice_crypto_error_unknown_inbound_session_id">傳送者的裝置並未在此訊息傳送他們的金鑰。</string>
+    <string name="notice_crypto_error_unknown_inbound_session_id">傳送者的裝置並未將此訊息的金鑰傳給我們。</string>
     <string name="unable_to_send_message">無法傳送訊息</string>
-    <string name="matrix_error">Matrix 錯誤</string>
+    <string name="matrix_error">矩陣錯誤</string>
     <string name="medium_email">電子郵件</string>
     <string name="medium_phone_number">電話號碼</string>
     <string name="room_displayname_room_invite">聊天室邀請</string>
     <string name="room_displayname_two_members">%1$s 和 %2$s</string>
-    <string name="room_displayname_empty_room">空聊天室</string>
+    <string name="room_displayname_empty_room">空的聊天室</string>
     <string name="initial_sync_start_importing_account">初始化同步：
 \n正在匯入帳號……</string>
     <string name="initial_sync_start_importing_account_crypto">初始化同步：
@@ -57,13 +57,13 @@
     <string name="notice_room_update">%s 已升級此聊天室。</string>
     <string name="event_status_sending_message">正在傳送訊息……</string>
     <string name="notice_room_third_party_revoked_invite">%1$s 撤銷了 %2$s 加入聊天室的邀請</string>
-    <string name="notice_room_invite_no_invitee_with_reason">%1$s 的邀請。理由：%2$s</string>
+    <string name="notice_room_invite_no_invitee_with_reason">來自 %1$s 的邀請。理由：%2$s</string>
     <string name="notice_room_invite_with_reason">%1$s 邀請了 %2$s。理由：%3$s</string>
     <string name="notice_room_invite_you_with_reason">%1$s 邀請了您。理由：%2$s</string>
     <string name="notice_room_join_with_reason">%1$s 已加入聊天室。理由：%2$s</string>
     <string name="notice_room_leave_with_reason">%1$s 已離開聊天室。理由：%2$s</string>
     <string name="notice_room_reject_with_reason">%1$s 已回絕邀請。理由：%2$s</string>
-    <string name="notice_room_remove_with_reason">%1$s 踢走了 %2$s。理由：%3$s</string>
+    <string name="notice_room_remove_with_reason">%1$s 踢除了 %2$s。理由：%3$s</string>
     <string name="notice_room_unban_with_reason">%1$s 取消封鎖了 %2$s。理由：%3$s</string>
     <string name="notice_room_ban_with_reason">%1$s 封鎖了 %2$s。理由：%3$s</string>
     <string name="notice_room_third_party_registered_invite_with_reason">%1$s 接受 %2$s 的邀請。理由：%3$s</string>
@@ -126,14 +126,14 @@
     <string name="power_level_default">預設</string>
     <string name="power_level_custom">自訂 (%1$d)</string>
     <string name="power_level_custom_no_value">自訂</string>
-    <string name="notice_power_level_changed_by_you">您變更了 %1$s 的權力等級。</string>
-    <string name="notice_power_level_changed">%1$s 變更了 %2$s 的權力等級。</string>
+    <string name="notice_power_level_changed_by_you">您變更了 %1$s 的權重。</string>
+    <string name="notice_power_level_changed">%1$s 變更了 %2$s 的權重。</string>
     <string name="notice_power_level_diff">%1$s 從 %2$s 到 %3$s</string>
     <string name="notice_room_invite_no_invitee_with_reason_by_you">您的邀請。理由：%1$s</string>
     <string name="notice_room_invite_with_reason_by_you">您邀請了 %1$s。理由：%2$s</string>
     <string name="notice_room_join_with_reason_by_you">您加入了聊天室。理由：%1$s</string>
     <string name="notice_room_leave_with_reason_by_you">您離開了聊天室。理由：%1$s</string>
-    <string name="notice_room_reject_with_reason_by_you">您回絕了邀請。理由：%1$s</string>
+    <string name="notice_room_reject_with_reason_by_you">您已回絕邀請。理由：%1$s</string>
     <string name="notice_room_remove_with_reason_by_you">您踢除了 %1$s。理由：%2$s</string>
     <string name="notice_room_unban_with_reason_by_you">您取消封鎖了 %1$s。理由：%2$s</string>
     <string name="notice_room_ban_with_reason_by_you">您封鎖了 %1$s。理由：%2$s</string>
@@ -2812,4 +2812,6 @@
     <string name="editing">正在編輯</string>
     <string name="settings_enable_direct_share_summary">在系統分享選單中顯示最近聊天</string>
     <string name="settings_enable_direct_share_title">啟用直接分享</string>
+    <string name="notice_voice_broadcast_ended">%1$s 結束語音直播。</string>
+    <string name="notice_voice_broadcast_ended_by_you">你已結束語音直播。</string>
 </resources>
