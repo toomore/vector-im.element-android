@@ -2814,4 +2814,16 @@
     <string name="settings_enable_direct_share_title">啟用直接分享</string>
     <string name="notice_voice_broadcast_ended">%1$s 結束語音直播。</string>
     <string name="notice_voice_broadcast_ended_by_you">你已結束語音直播。</string>
+    <string name="review_unverified_sessions_title">您有未驗證的對話</string>
+    <string name="voice_broadcast_live_broadcast">直播</string>
+    <string name="settings_nightly_build_update">取得最新版本的建構（注意：您可能會無法登入）</string>
+    <string name="review_unverified_sessions_description">請確認您的帳戶安全</string>
+    <string name="device_manager_signout_all_other_sessions">登出所有的對話</string>
+    <string name="settings_nightly_build">每夜建構</string>
+    <string name="device_manager_verification_status_detail_session_encryption_not_supported">這段對話無法被加密，因此無法被驗證。</string>
+    <string name="device_manager_learn_more_sessions_encryption_not_supported">無法對此對話進行加密，因此無法驗證。
+\n
+\n您無法進入已加密的聊天室中。
+\n
+\n為了安全與隱私，建議使用支援加密的 Matrix 客戶端。</string>
 </resources>
