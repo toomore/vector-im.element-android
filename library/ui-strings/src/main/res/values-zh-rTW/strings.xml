@@ -389,7 +389,7 @@
     <string name="settings_messages_in_one_to_one">來自私訊的訊息</string>
     <string name="settings_messages_in_group_chat">來自群組的訊息</string>
     <string name="settings_invited_to_room">當我被邀請進聊天室時</string>
-    <string name="settings_call_invitations">通話請求</string>
+    <string name="settings_call_invitations">通話邀請</string>
     <string name="settings_messages_sent_by_bot">來自機器人的訊息</string>
     <string name="settings_start_on_boot">在裝置啓動時自動啓動</string>
     <string name="settings_background_sync">後臺同步</string>
@@ -2130,7 +2130,7 @@
     <string name="room_settings_room_notifications_manage_notifications">您可以管理 %1$s 中的通知。</string>
     <string name="room_settings_room_notifications_encryption_notice">請注意，行動裝置上的加密聊天室並不提供提及與關鍵字通知。</string>
     <string name="room_settings_room_notifications_notify_me">通知我</string>
-    <string name="settings_mentions_and_keywords_encryption_notice">您不會在行動裝置上收到在加密聊天室中的提及與關鍵字通知。</string>
+    <string name="settings_mentions_and_keywords_encryption_notice">您將不會在手機上收到加密聊天室中被標記或關鍵字的任何通知。</string>
     <string name="settings_messages_containing_keywords">關鍵字</string>
     <string name="settings_mentions_at_room">\@room</string>
     <string name="settings_notification_keyword_contains_invalid_character">關鍵字不能包含「%s」</string>
