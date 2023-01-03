@@ -1,0 +1,2 @@
+此版本主要更新為：全新富文字編輯器的全螢幕模式與錯誤修復。
+完整更新紀錄：https://github.com/vector-im/element-android/releases
