@@ -40,20 +40,20 @@
     <string name="room_displayname_two_members">%1$s 與 %2$s</string>
     <string name="room_displayname_empty_room">空的聊天室</string>
     <string name="initial_sync_start_importing_account">初始同步：
-                                \n正在匯入帳號…</string>
+                                        \n正在匯入帳號…</string>
     <string name="initial_sync_start_importing_account_crypto">初始同步：
-                                \n正在匯入加密資料</string>
+                                        \n正在匯入加密資料</string>
     <string name="initial_sync_start_importing_account_rooms">初始同步：
-                                \n正在匯入聊天室</string>
+                                        \n正在匯入聊天室</string>
     <string name="initial_sync_start_importing_account_joined_rooms">初始同步：
-                                \n正在載入您的對話
-                                \n如果您加入了很多聊天室，可能要花一點時間</string>
+                                        \n正在載入您的對話
+                                        \n如果您加入了很多聊天室，可能要花一點時間</string>
     <string name="initial_sync_start_importing_account_invited_rooms">初始同步：
-                                \n正在匯入已邀請的聊天室資料</string>
+                                        \n正在匯入已邀請的聊天室資料</string>
     <string name="initial_sync_start_importing_account_left_rooms">初始同步：
-                                \n正在匯入已離開的聊天室資料</string>
+                                        \n正在匯入已離開的聊天室資料</string>
     <string name="initial_sync_start_importing_account_data">初始同步：
-                                \n正在匯入帳號資料</string>
+                                        \n正在匯入帳號資料</string>
     <string name="notice_room_update">%s 已升級此聊天室。</string>
     <string name="event_status_sending_message">正在傳送訊息…</string>
     <string name="notice_room_third_party_revoked_invite">%1$s 已撤銷 %2$s 加入聊天室的邀請</string>
@@ -314,8 +314,8 @@
     <string name="permissions_rationale_popup_title">資訊</string>
     <string name="permissions_rationale_msg_record_audio">${app_name} 需要麥克風存取權限來撥打語音通話。</string>
     <string name="permissions_rationale_msg_camera_and_audio">${app_name} 需要相機及麥克風存取權限來撥打視訊通話。
-                                \n
-                                \n請在下個彈跳視窗中允許存取，才能正常撥打。</string>
+                                        \n
+                                        \n請在下個彈跳視窗中允許存取，才能正常撥打。</string>
     <string name="yes">是</string>
     <string name="no">否</string>
     <string name="_continue">繼續</string>
@@ -340,7 +340,7 @@
     <string name="room_one_user_is_typing">%s 正在打字…</string>
     <string name="room_two_users_are_typing">%1$s 和 %2$s 正在打字…</string>
     <string name="room_participants_power_level_prompt">由於您將此使用者的權限等級提升到與您相同，因此將無法還原此變更。
-                                \n確定嗎？</string>
+                                        \n確定嗎？</string>
     <string name="room_many_users_are_typing">%1$s 及 %2$s 和其他人正在打字…</string>
     <string name="room_do_not_have_permission_to_post">您沒有權限在此聊天室貼文。</string>
     <plurals name="room_new_messages_notification">
@@ -363,8 +363,8 @@
     <string name="option_send_voice">發送語音訊息</string>
     <string name="option_send_sticker">傳送貼圖</string>
     <string name="no_sticker_application_dialog_content">您目前沒有啟用任何貼圖包。
-                                \n
-                                \n要現在新增一些貼圖嗎？</string>
+                                        \n
+                                        \n要現在新增一些貼圖嗎？</string>
     <string name="error_no_external_application_found">對不起，沒有應用程式可以完成此操作。</string>
     <string name="e2e_re_request_encryption_key">從其他工作階段重新請求加密金鑰。</string>
     <string name="e2e_re_request_encryption_key_dialog_content">請在另一個可以解密訊息的裝置上啟動 ${app_name}，以便它將金鑰傳送到此工作階段。</string>
@@ -542,10 +542,10 @@
     <string name="dialog_user_consent_submit">現在重新檢視</string>
     <string name="deactivate_account_title">停用帳號</string>
     <string name="deactivate_account_content">這將使您的帳號永遠無法使用。您將無法再登入，且沒有人能夠再次註冊相同的使用者 ID。這將導致您的帳號離開參與的所有聊天室，並將從身分伺服器上移除此帳號的詳細資訊。<b>此操作無法還原</b>。
-                                \n
-                                \n單純停用帳號<b>不會讓我們移除您傳送過的訊息</b>。如果您希望同步刪除您的訊息，請勾選下面的選取盒。
-                                \n
-                                \nMatrix 中的訊息可見度類似電子郵件。刪除您的訊息只是代表您發送的訊息不會再顯示給任何新的或未註冊的使用者，但是已註冊並曾經取得訊息的使用者，仍然可以存取他們收到的訊息。</string>
+                                        \n
+                                        \n單純停用帳號<b>不會讓我們移除您傳送過的訊息</b>。如果您希望同步刪除您的訊息，請勾選下面的選取盒。
+                                        \n
+                                        \nMatrix 中的訊息可見度類似電子郵件。刪除您的訊息只是代表您發送的訊息不會再顯示給任何新的或未註冊的使用者，但是已註冊並曾經取得訊息的使用者，仍然可以存取他們收到的訊息。</string>
     <string name="deactivate_account_delete_checkbox">請在停用我的帳號時刪除我傳送過的所有訊息（<b>警告：</b>未來的使用者將無法看見完整對話紀錄）</string>
     <string name="deactivate_account_submit">停用帳號</string>
     <string name="error_empty_field_your_password">請輸入您的密碼。</string>
@@ -622,42 +622,42 @@
     <string name="settings_troubleshoot_test_system_settings_title">系統設定</string>
     <string name="settings_troubleshoot_test_system_settings_success">已在系統設定中開啟通知。</string>
     <string name="settings_troubleshoot_test_system_settings_failed">系統設定中停用了通知。
-                                \n請確認系統設定。</string>
+                                        \n請確認系統設定。</string>
     <string name="open_settings">開啟設定</string>
     <string name="settings_troubleshoot_test_account_settings_title">帳號設定</string>
     <string name="settings_troubleshoot_test_account_settings_success">您的帳號已開啟通知。</string>
     <string name="settings_troubleshoot_test_account_settings_failed">您的帳號已關閉通知。
-                                \n請確認帳號設定。</string>
+                                        \n請確認帳號設定。</string>
     <string name="settings_troubleshoot_test_account_settings_quickfix">啟用</string>
     <string name="settings_troubleshoot_test_device_settings_title">工作階段設定</string>
     <string name="settings_troubleshoot_test_device_settings_success">此工作階段已啟用通知。</string>
     <string name="settings_troubleshoot_test_device_settings_failed">此工作階段未啟用通知。
-                                \n請確認 ${app_name} 設定。</string>
+                                        \n請確認 ${app_name} 設定。</string>
     <string name="settings_troubleshoot_test_device_settings_quickfix">啟用</string>
     <string name="settings_troubleshoot_test_play_services_title">Play Services 檢查</string>
     <string name="settings_troubleshoot_test_play_services_success">Google Play Services APK 可用且已為最新版。</string>
     <string name="settings_troubleshoot_test_play_services_failed">${app_name} 使用 Google Play Services 來傳遞推送訊息，但它似乎並未正確設定：
-                                \n%1$s</string>
+                                        \n%1$s</string>
     <string name="settings_troubleshoot_test_play_services_quickfix">修復 Play Services</string>
     <string name="settings_troubleshoot_test_fcm_title">Firebase Token</string>
     <string name="settings_troubleshoot_test_fcm_success">成功取得 FCM token：
-                                \n%1$s</string>
+                                        \n%1$s</string>
     <string name="settings_troubleshoot_test_fcm_failed">無法取得 FCM token：
-                                \n%1$s</string>
+                                        \n%1$s</string>
     <string name="settings_troubleshoot_test_token_registration_title">註冊權杖</string>
     <string name="settings_troubleshoot_test_token_registration_success">FCM token 成功註冊至家伺服器。</string>
     <string name="settings_troubleshoot_test_token_registration_failed">無法將 FCM token 註冊至家伺服器：
-                                \n%1$s</string>
+                                        \n%1$s</string>
     <string name="settings_troubleshoot_test_service_boot_title">開機時啟動</string>
     <string name="settings_troubleshoot_test_service_boot_success">服務將會在裝置重新啟動時自行啟動。</string>
     <string name="settings_troubleshoot_test_service_boot_failed">服務不會在裝置重開時自行啟動，沒有再次開啟 ${app_name} 前不會收到通知。</string>
     <string name="settings_troubleshoot_test_service_boot_quickfix">啟用開機時啟動</string>
     <string name="settings_troubleshoot_test_bg_restricted_title">檢查背景限制</string>
     <string name="settings_troubleshoot_test_bg_restricted_success">背景限制已為 ${app_name} 停用。本測試應該使用行動數據執行（不是 WiFi）。
-                                \n%1$s</string>
+                                        \n%1$s</string>
     <string name="settings_troubleshoot_test_bg_restricted_failed">背景限制已為 ${app_name} 啟用。
-                                \n應用程式要在背景執行的工作將被嚴格限制，這可能會影響通知功能。
-                                \n %1$s</string>
+                                        \n應用程式要在背景執行的工作將被嚴格限制，這可能會影響通知功能。
+                                        \n %1$s</string>
     <string name="settings_troubleshoot_test_bg_restricted_quickfix">停用限制</string>
     <string name="settings_troubleshoot_test_battery_title">電池最佳化</string>
     <string name="settings_troubleshoot_test_battery_success">${app_name} 不會被電池最佳化影響。</string>
