@@ -583,7 +583,7 @@
     <string name="unknown_error">抱歉，遇到錯誤</string>
     <string name="encryption_export_notice">請建立密語以加密您匯出的金鑰。您將需要輸入這些密語以匯入金鑰。</string>
     <string name="passphrase_create_passphrase">建立密語</string>
-    <string name="passphrase_passphrase_does_not_match">密語必須符合</string>
+    <string name="passphrase_passphrase_does_not_match">密語不符合</string>
     <string name="merged_events_expand">展開</string>
     <string name="merged_events_collapse">摺疊</string>
     <string name="room_participants_action_remove">從聊天移除</string>
@@ -971,7 +971,7 @@
     </plurals>
     <string name="attachment_type_file">檔案</string>
     <string name="attachment_type_contact">聯絡人</string>
-    <string name="attachment_type_camera">相機</string>
+    <string name="attachment_type_camera">鏡頭</string>
     <string name="attachment_type_gallery">相簿</string>
     <string name="attachment_type_sticker">貼圖</string>
     <string name="error_handling_incoming_share">無法處理分享資料</string>
@@ -1329,7 +1329,7 @@
     <string name="recovery_passphrase">復原通關密語</string>
     <string name="message_key">訊息金鑰</string>
     <string name="enter_account_password">輸入您的 %s 以繼續。</string>
-    <string name="bootstrap_dont_reuse_pwd">不要重用您的帳號密碼。</string>
+    <string name="bootstrap_dont_reuse_pwd">不要使用您的帳號密碼。</string>
     <string name="bootstrap_loading_text">這可能需要數秒，請稍候。</string>
     <string name="bootstrap_loading_title">設定復原。</string>
     <string name="bootstrap_finish_title">已完成！</string>
@@ -1659,10 +1659,10 @@
     <plurals name="secure_backup_reset_devices_you_can_verify">
         <item quantity="other">顯示您現在可以驗證的 %d 個裝置</item>
     </plurals>
-    <string name="secure_backup_reset_no_history">您將會重新啟動，沒有歷史紀錄，已信任的裝置或已信任的使用者</string>
+    <string name="secure_backup_reset_no_history">重新啟動後，歷史紀錄、訊息、已信任的裝置或已信任的使用者將會被清空</string>
     <string name="secure_backup_reset_if_you_reset_all">如果您重設了所有東西</string>
     <string name="secure_backup_reset_all_no_other_devices">僅在您沒有其他裝置可以驗證此裝置時才使用這個。</string>
-    <string name="secure_backup_reset_all">重設所有東西</string>
+    <string name="secure_backup_reset_all">恢復所有設定</string>
     <string name="bad_passphrase_key_reset_all_action">忘記或遺失所有復原選項？重設所有東西</string>
     <string name="direct_room_created_summary_item_by_you">您已加入。</string>
     <string name="direct_room_created_summary_item">%s 已加入。</string>
@@ -1841,7 +1841,7 @@
     <string name="call_held_by_you">您保留了通話</string>
     <string name="call_held_by_user">%s 保留了通話</string>
     <string name="call_hold_action">保留</string>
-    <string name="call_resume_action">恢復</string>
+    <string name="call_resume_action">繼續</string>
     <string name="dev_tools_event_content_hint">活動內容</string>
     <string name="dev_tools_success_state_event">狀態活動已傳送！</string>
     <string name="dev_tools_success_event">活動已傳送！</string>
@@ -2288,7 +2288,7 @@
     <string name="location_activity_title_preview">位置</string>
     <string name="location_activity_title_static_sharing">分享位置</string>
     <string name="closed_poll_option_description">結果僅在您結束投票後顯示</string>
-    <string name="closed_poll_option_title">封闭式投票</string>
+    <string name="closed_poll_option_title">已結束投票</string>
     <string name="open_poll_option_description">投票者在投票後可以立刻看到投票結果</string>
     <string name="open_poll_option_title">開放式投票</string>
     <string name="poll_type_title">投票類型</string>
@@ -2769,10 +2769,10 @@
     <string name="voice_broadcast_live">直播</string>
     <string name="device_manager_other_sessions_select">選取工作階段</string>
     <string name="attachment_type_selector_contact">聯絡人</string>
-    <string name="attachment_type_selector_camera">相機</string>
+    <string name="attachment_type_selector_camera">鏡頭</string>
     <string name="attachment_type_selector_location">位置</string>
     <string name="attachment_type_selector_poll">投票</string>
-    <string name="attachment_type_selector_voice_broadcast">音訊廣播</string>
+    <string name="attachment_type_selector_voice_broadcast">語音廣播</string>
     <string name="attachment_type_selector_file">附件</string>
     <string name="attachment_type_selector_sticker">貼圖</string>
     <string name="attachment_type_selector_gallery">照片媒體庫</string>
